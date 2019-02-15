@@ -1,0 +1,7 @@
+__pycache__
+.DS_Store
+01_rawdata/
+.ipynb_checkpoints/
+*.zip
+cat_feature_index*
+catboost_info/
